@@ -1,0 +1,21 @@
+{
+  "name": "netease-frontend-microcourse-tests",
+  "version": "1.0.0",
+  "description": "网易前端微专业课外习题集",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build",
+    "pdf": "gitbook pdf ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:huntbao/jshomework.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/huntbao/jshomework#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
